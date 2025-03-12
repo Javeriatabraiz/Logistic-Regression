@@ -6,12 +6,17 @@ This repository contains a Jupyter Notebook that demonstrates how to implement l
 
 The project focuses on using logistic regression to predict outcomes based on input features. It includes:
 
-**Data preparation and exploratory data analysis.
-Implementation of the logistic regression model.
-Model training and hyperparameter tuning.
-Evaluation of model performance using accuracy and other metrics.
-Visualization of the decision boundary and performance metrics.
-This notebook is designed as a learning resource for those interested in understanding the fundamentals of logistic regression and its practical applications in binary classification problems.**
+**Data preparation and exploratory data analysis**
+
+**Implementation of the logistic regression model.**
+
+**Model training and hyperparameter tuning.**
+
+**Evaluation of model performance using accuracy and other metrics.**
+
+**Visualization of the decision boundary and performance metrics.**
+
+This notebook is designed as a learning resource for those interested in understanding the fundamentals of logistic regression and its practical applications in binary classification problems.
 
 **Requirements**
 
